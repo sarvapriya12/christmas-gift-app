@@ -1,4 +1,4 @@
-import { useState, useRef, useMemo } from 'react';
+import { useState,  useMemo } from 'react';
 import ChristmasTree from './components/ChristmasTree';
 import GiftBox from './components/GiftBox';
 import MessageModal from './components/MessageModal';

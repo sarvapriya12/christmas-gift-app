@@ -7,7 +7,7 @@ interface GiftProps {
   color: string;
 }
 
-export default function GiftBox({ onClick, label, color }: GiftProps) {
+export default function GiftBox({ onClick,color }: GiftProps) {
   return (
     <motion.div
       onClick={onClick}
